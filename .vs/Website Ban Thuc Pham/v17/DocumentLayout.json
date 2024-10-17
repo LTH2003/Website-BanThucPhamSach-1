@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\models\\chitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\models\\chitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\models\\bantraicayraucu1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\models\\bantraicayraucu1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\areas\\admin\\views\\homeadmin\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\areas\\admin\\views\\homeadmin\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\areas\\admin\\views\\homeadmin\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\areas\\admin\\views\\homeadmin\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\components\\postcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\components\\postcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|d:\\documents\\zalo received files\\website ban thuc pham (1)\\website ban thuc pham\\website ban thuc pham\\components\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BB71F2-24C3-4970-A3DD-FB3C7B4389B3}|Website Ban Thuc Pham\\Website Ban Thuc Pham.csproj|solutionrelative:website ban thuc pham\\components\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T11:48:57.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Controllers\\AccessController.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:47:38.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\appsettings.json",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\appsettings.json",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\appsettings.json",
+              "RelativeToolTip": "Website Ban Thuc Pham\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T11:45:10.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Program.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Program.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Program.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:45:13.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChiTietSanPham.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Models\\ChiTietSanPham.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Models\\ChiTietSanPham.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Models\\ChiTietSanPham.cs*",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Models\\ChiTietSanPham.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:44:23.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Models\\User.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Models\\User.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:43:14.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:48:01.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamTheoloai.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Views\\Home\\SanPhamTheoloai.cshtml",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Views\\Home\\SanPhamTheoloai.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Views\\Home\\SanPhamTheoloai.cshtml",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Views\\Home\\SanPhamTheoloai.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T00:40:49.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Views\\Access\\Login.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAEwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T11:48:10.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bantraicayraucu1Context.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Models\\Bantraicayraucu1Context.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Models\\Bantraicayraucu1Context.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Models\\Bantraicayraucu1Context.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Models\\Bantraicayraucu1Context.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:45:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostComponent.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Components\\PostComponent.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Components\\PostComponent.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Components\\PostComponent.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Components\\PostComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:18:50.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuViewComponent.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Components\\MenuViewComponent.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Components\\MenuViewComponent.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Components\\MenuViewComponent.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Components\\MenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:18:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:15:56.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Models\\SanPham.cs",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Models\\SanPham.cs",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:40:56.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\SanPham.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\SanPham.cshtml",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\SanPham.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T00:45:16.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T16:01:02.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\Menu.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\Menu.cshtml",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\Menu.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T15:41:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "Website Ban Thuc Pham\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T15:41:43.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Website Ban Thuc Pham.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Website Ban Thuc Pham.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\DauHatNguCoc\\DauCucRanTuoi.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\DauHatNguCoc\\DauCucRanTuoi.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\DauHatNguCoc\\DauDen.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\DauHatNguCoc\\DauDen.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\DauHatNguCoc\\DauDoTuoi.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\DauHatNguCoc\\DauDoTuoi.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\DauHatNguCoc\\DauNguTuoi.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\DauHatNguCoc\\DauNguTuoi.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\DauHatNguCoc\\DauVanKho.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\DauHatNguCoc\\DauVanKho.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\DauHatNguCoc\\HatVungMeDen.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\DauHatNguCoc\\HatVungMeDen.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\BapMy.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\BapMy.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\BapNep.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\BapNep.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\BongCaiXanh.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\BongCaiXanh.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\CaiMuoiDua.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\CaiMuoiDua.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\CamSanh.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\CamSanh.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\ChanhDay.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\ChanhDay.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\GiaMam.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\GiaMam.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\MamRauMuongHat.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\MamRauMuongHat.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\NhoKeo.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\NhoKeo.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\OiVuon.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\OiVuon.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\QuaThom.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\QuaThom.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\QuytUc.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\QuytUc.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\RauCaiBoXoi.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\RauCaiBoXoi.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\RauDenCom.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\RauDenCom.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\RauMuongNuoc.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\RauMuongNuoc.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\RauNgot.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\RauNgot.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\RauTanO.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\RauTanO.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\ThuLuMy.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\ThuLuMy.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\XaLachMy.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\XaLachMy.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\RauSach\\XaLachThuyTinh.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\RauSach\\XaLachThuyTinh.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\BapMy.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\BapMy.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\BapNep.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\BapNep.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\CamSanh.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\CamSanh.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\ChanhDay.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\ChanhDay.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\NhoKeo.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\NhoKeo.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\OiVuon.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\OiVuon.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\QuaThom.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\QuaThom.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\QuytUc.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\QuytUc.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\AnhThucPham\\TraiCay\\ThuLuMy.jpg",
+      "PackagePath": "staticwebassets\\AnhThucPham\\TraiCay\\ThuLuMy.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\language.png",
+      "PackagePath": "staticwebassets\\img\\language.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Zalo Received Files\\Website Ban Thuc Pham (1)\\Website Ban Thuc Pham\\Website Ban Thuc Pham\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Website Ban Thuc Pham.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Website Ban Thuc Pham.props",
+      "PackagePath": "build\\Website Ban Thuc Pham.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Website Ban Thuc Pham.props",
+      "PackagePath": "buildMultiTargeting\\Website Ban Thuc Pham.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Website Ban Thuc Pham.props",
+      "PackagePath": "buildTransitive\\Website Ban Thuc Pham.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,803 @@
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\appsettings.Development.json
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\appsettings.json
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.staticwebassets.runtime.json
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.exe
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.deps.json
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.runtimeconfig.json
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.pdb
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.csproj.AssemblyReference.cache
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.AssemblyInfoInputs.cache
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.AssemblyInfo.cs
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.MvcApplicationPartsAssemblyInfo.cache
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.RazorAssemblyInfo.cache
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.RazorAssemblyInfo.cs
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.Website Ban Thuc Pham.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.build.Website Ban Thuc Pham.props
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Website Ban Thuc Pham.props
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Website Ban Thuc Pham.props
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.build.json
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.development.json
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\bundle\Website Ban Thuc Pham.styles.css
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\projectbundle\Website Ban Thuc Pham.bundle.scp.css
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\refint\Website Ban Thuc Pham.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.pdb
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.genruntimeconfig.cache
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\ref\Website Ban Thuc Pham.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Humanizer.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.CodeDom.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Text.Json.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.csproj.CopyComplete
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Azure.Core.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Azure.Identity.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Memory.Data.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\MessagePack.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Build.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Common.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORKSPACE\ASP.Net\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.staticwebassets.runtime.json
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.exe
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.Website Ban Thuc Pham.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.build.Website Ban Thuc Pham.props
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Website Ban Thuc Pham.props
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Website Ban Thuc Pham.props
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\bundle\Website Ban Thuc Pham.styles.css
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\projectbundle\Website Ban Thuc Pham.bundle.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\refint\Website Ban Thuc Pham.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\ref\Website Ban Thuc Pham.dll
+C:\Users\Admin\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\SlugGenerator.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.csproj.AssemblyReference.cache
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.AssemblyInfoInputs.cache
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.AssemblyInfo.cs
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.csproj.CoreCompileInputs.cache
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.RazorAssemblyInfo.cache
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.RazorAssemblyInfo.cs
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\refint\Website Ban Thuc Pham.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.pdb
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\appsettings.json
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.staticwebassets.runtime.json
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.exe
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.deps.json
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.runtimeconfig.json
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Website Ban Thuc Pham.pdb
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Azure.Core.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Azure.Identity.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Humanizer.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\MessagePack.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Common.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\SlugGenerator.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.CodeDom.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Text.Json.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.Website Ban Thuc Pham.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.build.Website Ban Thuc Pham.props
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Website Ban Thuc Pham.props
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Website Ban Thuc Pham.props
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\bundle\Website Ban Thuc Pham.styles.css
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\scopedcss\projectbundle\Website Ban Thuc Pham.bundle.scp.css
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website Ban Thuc Pham.genruntimeconfig.cache
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\ref\Website Ban Thuc Pham.dll
+D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\obj\Debug\net6.0\Website .2B2EA3CF.Up2Date

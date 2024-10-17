@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Website_Ban_Thuc_Pham.Models.User>
+
+@{
+    ViewData["Title"] = "User";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1>User</h1>
+<p>
+    <a asp-action="ThemUser" class="btn btn-success btn-sm"><span class="d-block text-white w-100">Thêm Mới</span></a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            <tr class="table-success">
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                    <a asp-action="SuaUser" asp-route-UserID="@item.UserID" class="btn btn-info btn-sm"><span class="d-block text-white w-25">Edit</span></a>
+                    <a asp-action="XoaUser" asp-route-UserID="@item.UserID" class="btn btn-danger btn-sm bg-danger"><span class="d-block text-white w-25">Delete</span></a>
+        </tr>
+}
+    </tbody>
+</table>

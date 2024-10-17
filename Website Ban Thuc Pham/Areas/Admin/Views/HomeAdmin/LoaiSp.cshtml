@@ -1,0 +1,43 @@
+﻿@model List<LoaiSp>
+@using Website_Ban_Thuc_Pham.Models;
+
+@{
+    ViewData["Title"] = "LoaiSp";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1>Danh mục sản phẩm</h1>
+
+<p>
+    <a asp-action="ThemLoaiSpMoi" class="btn btn-success btn-sm"><span class="d-block text-white w-100">Thêm Mới</span></a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Mã loại
+            </th>
+            <th>
+                Loại
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="table-success">
+            <td>
+                @Html.DisplayFor(modelItem => item.MaLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Loai)
+            </td>
+            <td>
+                    <a asp-action="SuaLoaiSp" asp-route-MaLoai="@item.MaLoai" class="btn btn-info btn-sm"><span class="d-block text-white w-25">Edit</span></a>
+                    <a asp-action="XoaLoaiSp" asp-route-MaLoai="@item.MaLoai" class="btn btn-danger btn-sm bg-danger"><span class="d-block text-white w-25">Delete</span></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

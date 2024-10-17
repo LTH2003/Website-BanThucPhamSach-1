@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Website_Ban_Thuc_Pham
+build_property.RootNamespace = Website_Ban_Thuc_Pham
+build_property.ProjectDir = D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Documents\Zalo Received Files\Website Ban Thuc Pham (1)\Website Ban Thuc Pham\Website Ban Thuc Pham
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/LoaiSp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXExvYWlTcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/SanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/SuaLoaiSp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUxvYWlTcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/SuaMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YU1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/SuaUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/ThemLoaiSpMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1Mb2FpU3BNb2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/ThemMenuMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1NZW51TW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/ThemUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/HomeAdmin/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Home/SanPhamTheoloai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYW5QaGFtVGhlb2xvYWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Shared/Components/LoaiSPMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9haVNQTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Shared/Components/MenuView/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVZpZXdcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Shared/Components/Post/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9zdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Zalo Received Files/Website Ban Thuc Pham (1)/Website Ban Thuc Pham/Website Ban Thuc Pham/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a1gayjk7e1
